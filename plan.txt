@@ -57,30 +57,14 @@ recommended steps and user preferences.
    - Develop a user-friendly frontend where users can view their goals,
    recommended steps, and progres backend.
 
-		  7. **Backend Development:**
-		     - Create API endpoints for user registration, goal creation, AI
-			   recommendations, and calendar integration.
-			      - Handle data storage and retrieval from the database.
-				     - Implement user authentication and authorization.
+7. **Backend Development:**
+	- Create API endpoints for user registration, goal creation, AI
+	recommendations, and calendar integration.
+	- Handle data storage and retrieval from the database.
+	- Implement user authentication and authorization.
 
-					 8. **Database:**
-					    - Store user profiles, goals, recommended steps, and
-						  progress data in the database.
-						     - Ensure data secg and Deployment:**
-							    - Thoroughly test the app for usability,
-								  security, and performance.
-								     - Deploy the frontend and backend to
-									   hosting platforms like Firebase,
-									   Heroku, AWS, or similar services.
+8. **Database:**
+	- Store user profiles, goals, recommended steps, and
+	progress data in the database.
 
-									   10. **Monitoring and Scaling:**
-									       - Implement monitoring tools and
-											 logs to track the app's
-											 performance and identify any
-											 issues.
-											     - As your user base grows,
-												   consider scaling your
-												   infrastructure to handle
-												   increased load.
-
-												   11. **Continuous Improvem
+									   
